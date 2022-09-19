@@ -1,0 +1,31 @@
+{
+  "customers": [
+    {
+      "customername": "weq",
+      "description": "wer",
+      "address": "ewr",
+      "city": "ewr",
+      "state": "rwer",
+      "zip": "rwe",
+      "id": 1
+    },
+    {
+      "customername": "ffs",
+      "description": "fsdf",
+      "address": "fdsf",
+      "city": "fsdf",
+      "state": "fdsf",
+      "zip": "fsdf",
+      "id": 2
+    },
+    {
+      "customername": "rwer",
+      "description": "rewr",
+      "address": "rewr",
+      "city": "rwer",
+      "state": "rwe",
+      "zip": "rwe",
+      "id": 3
+    }
+  ]
+}

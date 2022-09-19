@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HMIS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HMIS\\.nuget\\packages"
+    ]
+  }
+}
